@@ -91,6 +91,7 @@ feature.geolocation
 feature.historyAPI
 feature.placeholder
 feature.localStorage
+feature.sessionStorage
 feature.matchMedia
 feature.pictureElement
 feature.querySelectorAll
